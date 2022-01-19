@@ -16,3 +16,15 @@ articles:
       en-US:
         title: Register GitHub Account
         description: Procedure to register GitHub account
+  sync-fork:
+    path: sync-fork
+    references:
+      - url: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+        title: Syncing a fork
+    localization:
+      zh-CN:
+        title: 同步复刻仓库
+        description: 将您的复刻仓库与上游仓库同步
+      en-US:
+        title: Syncing a Fork Repository
+        description: Sync a fork repository with upstream repository

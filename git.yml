@@ -9,6 +9,8 @@ path: git
 articles:
   install:
     path: install
+    dependencies:
+      - package-manager
     localization:
       zh-CN:
         title: 安装 Git
